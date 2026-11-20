@@ -93,6 +93,7 @@ Track competitor hiring patterns to predict product roadmap and expansion:
 ### AI-Generated Reports
 - [ZeroIntel Reports](https://zerointel.xyz/order) — Custom AI-powered competitive intelligence reports delivered in 24 hours. Tiers from $49 (Quick Intel) to $249 (War Room).
 - [ZeroIntel Sample Report](https://zerointel.xyz/sample-report) — See a sample competitive analysis report.
+- [DDScore Sample Report](https://www.ddscore.ai/example-report#er-section-7) — A fictional SaaS due diligence case showing how external research can test differentiation claims and uncover customer alternatives.
 
 ### SaaS Comparisons
 Popular head-to-head comparisons for B2B buyers:
